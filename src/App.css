@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.Puzzle {
+  position: absolute;
+  width: 512px;
+  height: 512px;
+  left: 100px;
+  top: 50px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+}
+
+.Image {
+  position: absolute;
+  width: 125px;
+  height: 125px;
+  left: 650px;
+  top: 50px;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.Message {
+  position: absolute;
+  left: 650px;
+  top: 200px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  font-weight: bolder;
+}
