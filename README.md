@@ -2,6 +2,10 @@
 
 (For an already deployed demo, please visit: http://hodaee.byethost3.com/picpuzzle/index.html)
 
+--------------------------------------------
+
+To set it up locally:
+
 In the project directory, use npm to install project dependencies:
 
 ### `npm install`
