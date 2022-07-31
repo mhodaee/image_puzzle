@@ -1,5 +1,7 @@
 # Simple image puzzle built with React.js
 
+(For an already deployed demo, please visit: http://hodaee.byethost3.com/picpuzzle/index.html)
+
 In the project directory, use npm to install project dependencies:
 
 ### `npm install`
